@@ -19,10 +19,11 @@ You can assume that the program should ask for path to input file. 
 
 Data – train.csv.zip
 
-corrrmap
-<img width="923" alt="screen shot 2017-09-12 at 10 36 21 pm" src="https://user-images.githubusercontent.com/11708565/30338914-de6a5f8a-980a-11e7-95ca-89298f0e3e6e.png">
 
 corrcoef of the variables
+<img width="923" alt="screen shot 2017-09-12 at 10 36 21 pm" src="https://user-images.githubusercontent.com/11708565/30338914-de6a5f8a-980a-11e7-95ca-89298f0e3e6e.png">
+
+corrrmapplot
 <img width="975" alt="screen shot 2017-09-12 at 10 35 47 pm" src="https://user-images.githubusercontent.com/11708565/30338915-de6d7940-980a-11e7-8089-443d7ef1b093.png">
 
 Result using GBM with other functionality set to true. 
